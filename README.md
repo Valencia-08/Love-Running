@@ -11,15 +11,15 @@ This was my first ever challenge combining the two languages to create a fully r
 
 ## Color Scheme
 
-The main theme of the site is black and white 
+- The main theme of the site is black and white 
 
 ## Typography 
 
-Oswald and Lato are the main fonts used throughout the website 
+- Oswald and Lato are the main fonts used throughout the website 
 
 ## Imagery
 
-The images were provided but add a nice and soft touch to the message and also the colour scheme.
+- The images were provided but add a nice and soft touch to the message and also the colour scheme.
 
 
 # Features
@@ -34,19 +34,19 @@ The images were provided but add a nice and soft touch to the message and also t
 
 ## Frameworks, Libraries and Programs Used
 
-[Hover.css](https://ianlunn.github.io/Hover/) - The Hover feaauture was used on the naviagtion pane 
+- [Hover.css](https://ianlunn.github.io/Hover/) - The Hover feaauture was used on the naviagtion pane 
 
-[Google Fonts](https://fonts.google.com/) - Google fonts was used to import 'Oswald' and 'Lato'
+- [Google Fonts](https://fonts.google.com/) - Google fonts was used to import 'Oswald' and 'Lato'
 
-[Font Awesome](https://fontawesome.com/) - Font Awesome was used to import the icons in the home page and also for the social media icons in the footer of each page
+- [Font Awesome](https://fontawesome.com/) - Font Awesome was used to import the icons in the home page and also for the social media icons in the footer of each page
 
-[Repl.it](https://repl.it/) - Repl.it was used to create the files and style them
+- [Repl.it](https://repl.it/) - Repl.it was used to create the files and style them
 
-[Gitpod](https://www.gitpod.io/) - Gitpod was used to import those files to further edit and collaborate with other developers
+- [Gitpod](https://www.gitpod.io/) - Gitpod was used to import those files to further edit and collaborate with other developers
 
-[Git](https://git-scm.com/) - Git was used to allow the Gitpod terminal to commit to Git and Push to GitHub 
+- [Git](https://git-scm.com/) - Git was used to allow the Gitpod terminal to commit to Git and Push to GitHub 
 
-[GitHub](https://github.com/) - GitHub was used to store the projects after being pushed from Git
+- [GitHub](https://github.com/) - GitHub was used to store the projects after being pushed from Git
 
 
 # Deployment 
@@ -81,7 +81,7 @@ The project was deployed to GitHub Pages using the following steps...
 
 ## Content
 
--Content was supplied by The Code Institute
+- Content was supplied by The Code Institute
 
 ## Media
 
